@@ -8,7 +8,7 @@ This code is divided into two parts, the main code and the telegram bot code.
 Firstly we have the main code, where most of the important code is. It is basically where the functions are, here you will be able to modify the parameters that later go into the functions. Modify as you see fit to better predict these crashes. 
 
 The second part of the code is a telegram bot, that basically acts as a way to run the code and recieve notifications of what the code managed to find. For the moment any time you want to execute the code you will firstly need to run it on the PC and then send a text message to the bot saying /start and then the bot will work.
-To stop running the bot, go on your terminal and press control + C. 
+To stop running the bot, go on your terminal and press control + C (this is for VCS, I dont know if how it would work if you run it outside VCS). 
 
 VERY IMPORTANT, YOU NEED A TOKEN FROM BOTFATHER ON TELEGRAM, THIS TOKEN IS LIKE A PASSWORD, DONT SHARE IT WITH ANYBODY, NOT EVEN UR GIRLFRIEND (if u have one)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
