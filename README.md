@@ -1,8 +1,8 @@
 # Crash-Aviation-App-Prediction
-This code is used to be able to in some way predict if a big airline plane will or will not crash.
+This code is used to be able to, in some way, predict if a big airline plane will or will not crash.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-English Version: 
+### English Version: 
 This code is divided into two parts, the main code and the telegram bot code.
 
 Firstly we have the main code, where most of the important code is. It is basically where the functions are, here you will be able to modify the parameters that later go into the functions. Modify as you see fit to better predict these crashes. 
@@ -11,9 +11,8 @@ The second part of the code is a telegram bot, that basically acts as a way to r
 To stop running the bot, go on your terminal and press control + C. 
 
 VERY IMPORTANT, YOU NEED A TOKEN FROM BOTFATHER ON TELEGRAM, THIS TOKEN IS LIKE A PASSWORD, DONT SHARE IT WITH ANYBODY, NOT EVEN UR GIRLFRIEND (if u have one)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-version en español: 
+### Version en español: 
 Este codigo se divide en dos partes, la principal y el bot de telegram. 
 
 En primer lugar tenemos el main, donde se encuentra la parte mas importante del codigo, es donde estan todas las funciones. Dentro del main se encuentran los parametros que se usaran dentro de las funciones, estos parametros son modificables a su gusto, y se lo recomiendo para poder predecir mejor posibles accidentes aereos. 
